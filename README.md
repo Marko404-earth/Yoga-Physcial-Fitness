@@ -12,7 +12,7 @@
             </td>
             <td>
                 <p>Yoga is a great way to improve your flexibility, strength, and mental well-being. Join us for our yoga classes to experience the benefits firsthand!</p>
-                <p>Yoga is not just a physical exercise; it also helps in reducing stress and enhancing mental clarity. Whether you are a beginner or an experienced yogi, our classes cater to all levels.</p>
+                <p>Yoga is not just a physical exercise; it also helps in reducing stress and enhancing mental clarity. Whether you are a beginner or an experienced yoga, our classes cater to all levels.</p>
                 <p>It is important to maintain a balanced lifestyle, and yoga plays a crucial role in achieving that balance. Regular practice can lead to improved health and well-being.</p>
             </td>
         </tr>
